@@ -3,6 +3,7 @@
 /* Tipografia */
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+@import "./utilidades/formulario.css";
 
 @import "./global/header.css";
 @import "./global/footer.css";
@@ -19,6 +20,9 @@
 
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
+
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /* Botao */
 @import "./utilidades/componentes.css";
