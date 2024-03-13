@@ -1,20 +1,25 @@
 @import "./global/global.css";
-
-/* Tipografia */
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
-@import "./utilidades/formulario.css";
+@import "./utilidades/animacao.css";
 
+/* Tipografia */
 @import "./global/header.css";
 @import "./global/footer.css";
+
+@import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
+
 @import "./home/introducao.css";
-@import "./bicicletas/bicicletas-lista.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
+
+
+@import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
 @import "./seguros/seguros.css";
 @import "./termos/termos.css";
-@import "./bicicletas/bicicletas.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
@@ -27,6 +32,5 @@
 @import "./orcamento/orcamento.css";
 
 /* Botao */
-@import "./utilidades/componentes.css";
 
 
